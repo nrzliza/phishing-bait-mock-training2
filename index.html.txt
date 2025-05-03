@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Phishing Bait Training</title>
+</head>
+<body>
+  <h1>Can You Spot the Real Link?</h1>
+  <ul>
+    <li><a href="https://www.maybank2u.com.my/">✅ Real Maybank Link</a></li>
+    <li><a href="phished.html">❌ Suspicious Link (Maybank)</a></li>
+  </ul>
+</body>
+</html>
